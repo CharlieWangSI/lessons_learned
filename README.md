@@ -1,5 +1,5 @@
 Things I Have Learned at Bloc.io
-*HTML
-*CSS
-*Javascript
-*Git
+<ul>HTML</ul>
+<ul>CSS</ul>
+<ul>Javascript</ul>
+<ul>Git</ul>
